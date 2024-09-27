@@ -23,3 +23,8 @@
 ### Develop on stackblitz
 
 - https://stackblitz.com/~/github.com/sky172839465/aws-iot-example
+
+### Reference
+
+- https://github.com/yehchitsai/AIoTnAWSCloud
+- https://ithelp.ithome.com.tw/users/20129510/ironman/7258
